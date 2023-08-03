@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
 [Estudo comparativo](https://github.com/andre-balbi/Estudo-Comparativo-Auditoria)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>

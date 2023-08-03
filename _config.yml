@@ -4,9 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>Aeronautical Engineer currently enrolled<br> 
   in the third semester of the Bachelor 
   of Data Science Program at UNIVESP.<br>
-  <br> <br> 
-  <br>(12) 9 9183 6414 ⋄ São Jos dos Campos - SP - Brazil
-  abalbiaguiar@gmail.com ⋄ drebalbiaguiar@gmail.com<br>
+  <br>(12) 9 9183 6414 ⋄ São Jos dos Campos - SP - Brazil<br>
+  <br>abalbiaguiar@gmail.com ⋄ drebalbiaguiar@gmail.com<br>
+  <br><br>
   <a href="https://www.linkedin.com/in/drebalbi/">View My LinkedIn Profile</a> 
 
 remote_theme: pages-themes/minimal@v0.2.0

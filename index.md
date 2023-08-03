@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Estudo comparativo](https://github.com/andre-balbi/Estudo-Comparativo-Auditoria)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

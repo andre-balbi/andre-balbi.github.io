@@ -1,12 +1,12 @@
-title: André Balbi # your name (or website title) here
+title: André Balbi Aguiar # your name (or website title) here
 logo: "/images/mod_perfil.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>Aeronautical Engineer currently enrolled<br> 
   in the third semester of the Bachelor 
   of Data Science Program at UNIVESP.<br>
-  
-  Second description 
-  <br><br>
+  <br> <br> 
+  <br>(12) 9 9183 6414 ⋄ São Jos dos Campos - SP - Brazil
+  abalbiaguiar@gmail.com ⋄ drebalbiaguiar@gmail.com<br>
   <a href="https://www.linkedin.com/in/drebalbi/">View My LinkedIn Profile</a> 
 
 remote_theme: pages-themes/minimal@v0.2.0

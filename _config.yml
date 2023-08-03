@@ -1,10 +1,10 @@
 title: André Balbi # your name (or website title) here
 logo: "/images/mod_perfil.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
   <br>Aeronautical Engineer currently enrolled<br> 
-  <br>in the third semester of the Bachelor <br>
-  <br>of Data Science Program at UNIVESP.<br>
+  in the third semester of the Bachelor 
+  of Data Science Program at UNIVESP.<br>
+  
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/drebalbi/">View My LinkedIn Profile</a> 

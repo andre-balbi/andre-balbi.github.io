@@ -4,8 +4,8 @@
 
 ### Data Science
 
-[Estudo comparativo](https://github.com/andre-balbi/Estudo-Comparativo-Auditoria)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Monitor de Exercícios](https://github.com/andre-balbi/fitness-tracker/tree/master)
+<img src="images/fitness-tracker.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

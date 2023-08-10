@@ -4,7 +4,7 @@
 
 ### Data Science
 
-[Monitor de Exercícios](https://github.com/andre-balbi/monitor-exercicios/blob/master/README.md)
+[Monitor de Exercícios](https://github.com/andre-balbi/monitor-exercicios)
 <img src="images/fitness-tracker.png?raw=true"/>
 
 ---

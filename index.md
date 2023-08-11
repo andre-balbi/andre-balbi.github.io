@@ -3,8 +3,8 @@
 
 ### [Monitor de Exercícios](https://github.com/andre-balbi/monitor-exercicios)
 
-**`Time Series | Signal Analysis | Measurement Sensors | Accelerometer | Gyroscope | Fourier Transformation | Frequency Abstraction | Temporal Abstraction | PCA | Clustering | Statistical Classification`**
-<img src="images/fitness-tracker.png?raw=true"/>
+`Time Series | Signal Analysis | Measurement Sensors | Accelerometer | Gyroscope | Fourier Transformation | Frequency Abstraction | Temporal Abstraction | PCA | Clustering | Statistical Classification`
+[<img src="images/fitness-tracker.png?raw=true"/>](https://github.com/andre-balbi/monitor-exercicios)
 
 
 ---

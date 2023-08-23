@@ -13,7 +13,7 @@ Time Series | Signal Analysis | Measurement Sensors | Accelerometer | Gyroscope 
 **Descrição do projeto:** Neste projeto de Análise de Recursos Humanos (turnover), empregando dados fictícios, simularemos um procedimento de análise visando identificar fatores de desvinculação. Utilizando competências e compreensões em Data Science e Engenharia de Dados na gestão de pessoal, desenvolveremos um aplicativo interativo por meio da plataforma Streamlit. Este aplicativo visualmente apresentará nossos discernimentos e o desfecho do modelo de Machine Learning, o qual avaliará se um colaborador específico é um possível candidato a deixar a empresa.
 
 Predictive Modeling | Classification Algorithms| Cluster Analysis | Automated Machine Learning | PyCaret | Data Pipeline | Data Lake | Docker | MinIO | Apache Airflow | SQL | Streamlit 
-[<img src="images/rot_func.jpg?raw=true"/>](https://github.com/andre-balbi/rotatividade-funcionarios)
+[<img src="images/rotatividade_funcionarios.jpg?raw=true"/>](https://github.com/andre-balbi/rotatividade-funcionarios)
 
 ---
 

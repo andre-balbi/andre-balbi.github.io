@@ -7,6 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.linkedin.com/in/drebalbi/">View My LinkedIn Profile</a>
   <br>
+  <br>
   <a href="https://github.com/andre-balbi/andre-balbi.github.io/blob/master/CVs/cv_andre-balbi_pt.pdf">View My Curriculum (pt)</a>
 
 remote_theme: pages-themes/minimal@v0.2.0

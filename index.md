@@ -17,7 +17,7 @@ Predictive Modeling | Classification Algorithms| Cluster Analysis | Automated Ma
 
 ---
 
-### [Aplicações utilizando LangChain me Vídeos do YouTube](https://github.com/andre-balbi/yt-langchain)
+### [Aplicações utilizando LangChain em Vídeos do YouTube](https://github.com/andre-balbi/yt-langchain)
 
 **Descrição do projeto:** Neste projeto, exploramos a aplicação da biblioteca LangChain para o desenvolvimento de aplicações. Utilizamos modelos de linguagem como o GPT-3.5 Turbo da OpenAI para criar um banco de dados pesquisável a partir de transcrições de vídeos do YouTube. Adicionalmente, investigamos como realizar buscas de similaridade por meio da biblioteca FAISS, com base nas perguntas dos usuários. O objetivo principal é fornecer respostas precisas e relevantes a essas perguntas, aprimorando a interação do usuário com as informações presentes nos vídeos.
 

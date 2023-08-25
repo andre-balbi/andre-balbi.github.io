@@ -24,6 +24,16 @@ Predictive Modeling | Classification Algorithms| Cluster Analysis | Automated Ma
 LangChain | Large Language Models (LLMs) | OpenAI | GPT | AI Apps | Similarity Search | word2vec | Facebook FAISS
 [<img src="images/youtube_langchain.png?raw=true"/>](https://github.com/andre-balbi/yt-langchain)
 
+---
+
+### [Recomendador de Imóveis](https://github.com/andre-balbi/yt-langchain)
+
+**Descrição do projeto:** Este projeto introduz uma abordagem inovadora para otimizar a busca por imóveis, utilizando Inteligência Artificial (IA). Através de uma coleta diversificada de dados, que inclui Web Scraping e informações de endereço, nosso modelo de recomendação foi desenvolvido. Com o uso de técnicas avançadas de processamento de linguagem natural e análise de agrupamento, o modelo é treinado para sugerir imóveis relevantes.
+
+Recommendation Algorithms | Web Scrapping | Data Cleaning | NLP | Ensemble Learning | Reinforcement Learning | Active Learning
+[<img src="images/recomendador-imoveis.png?raw=true"/>](https://github.com/andre-balbi/recomendador-imoveis)
+
+
 
 
 

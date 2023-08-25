@@ -28,7 +28,7 @@ LangChain | Large Language Models (LLMs) | OpenAI | GPT | AI Apps | Similarity S
 
 ### [Recomendador de Imóveis](https://github.com/andre-balbi/yt-langchain)
 
-**Descrição do projeto:** Este projeto apresenta uma abordagem inovadora para otimizar a busca por imóveis, utilizando Inteligência Artificial (IA). Utilizando coleta de dados diversificada de dados, que inclui Web Scraping e informações de endereço, e usando técnicas avançadas de processamento de linguagem natural e análise de agrupamento.
+**Descrição do projeto:** Este projeto apresenta uma abordagem inovadora para otimizar a busca por imóveis, utilizando Inteligência Artificial (IA). Utilizando coleta de dados diversificada de dados, que inclui Web Scraping e informações oriundas de APIs, bem como técnicas avançadas de processamento de linguagem natural e análise de agrupamento.
 
 Recommendation Algorithms | Web Scrapping | Data Cleaning | NLP | Ensemble Learning | Reinforcement Learning | Active Learning
 [<img src="images/recomendador-imoveis.png?raw=true"/>](https://github.com/andre-balbi/recomendador-imoveis)

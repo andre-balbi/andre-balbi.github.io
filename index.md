@@ -30,7 +30,7 @@ LangChain | Large Language Models (LLMs) | OpenAI | GPT | AI Apps | Similarity S
 
 **Descrição do projeto:** Este projeto sugere uma abordagem inovadora para melhorar a busca por imóveis, fazendo uso da Inteligência Artificial (IA). Através de uma coleta diversificada de dados, que envolve Web Scraping, informações de APIs, aplicação de técnicas avançadas de processamento de linguagem natural e análise de agrupamento, a recomendação é gerada durante a interação entre o usuário e o próprio algoritmo.
 
-Recommendation Algorithms | Web Scrapping | Data Cleaning | NLP | Ensemble Learning | Reinforcement Learning | Active Learning
+Recommendation Algorithms | Web Scrapping | Data Cleaning | NLP | Ensemble Learning | Reinforcement Learning | Active Learning |A/B Testing
 [<img src="images/recomendador-imoveis.png?raw=true"/>](https://github.com/andre-balbi/recomendador-imoveis)
 
 
